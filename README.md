@@ -3,7 +3,7 @@
 ## Overview
 This project presents a **Sleep Disorder Data Analysis Dashboard** designed to visualize key metrics related to sleep disorders and their impact on various factors such as **physical activity, stress levels, BMI, and heart rate**. The dashboard provides interactive insights to help understand sleep patterns across different demographics.
 
-
+![Sleep disorder Dashboard](https://github.com/potableG/Sleep-Disorder-and-Lifestyle-Analysis/blob/main/Sleep%20Disorder%20Dashboard.PNG)
 
 ## Data Source
 The dataset used for this analysis includes information on individuals' sleep disorders, gender, BMI categories, occupations, physical activity levels, heart rate, stress levels, and sleep duration.
